@@ -6,11 +6,11 @@ We are Elite Byte, a team of five students from the Coding Factory 4 bootcamp at
 
 Our team members (sorted alphabetically),  are:
 
-- [Christodoulos Giannakos](https://github.com/Douliamipa)
-- [Maria Karavazaki](https://github.com/MariaKar1991)
-- [Charalampos Kontos](https://github.com/ckontos82)
-- [Iordanis Papaditsas](https://github.com/jordanpapaditsas)
-- [Vaios Tsialkoutis](https://github.com/Vaios96)
+- [Giannakos Christodoulos](https://github.com/Douliamipa)
+- [Karavazaki Maria](https://github.com/MariaKar1991)
+- [Kontos Charalampos](https://github.com/ckontos82)
+- [Papaditsas Iordanis](https://github.com/jordanpapaditsas)
+- [Tsialkoutis Vaios](https://github.com/Vaios96)
 
 ## About Our Project
 
